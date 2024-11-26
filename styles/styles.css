@@ -1,0 +1,13 @@
+h1{
+    color: lightcoral;
+}
+
+.large-text{
+    font-size: 2em;
+}
+
+.text-center{
+    /* background-color: yellowgreen !important; */
+    text-align: center;
+
+}
